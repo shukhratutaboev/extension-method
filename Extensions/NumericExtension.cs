@@ -1,4 +1,4 @@
-namespace lesson11.Extensions
+namespace Verbalize.Extensions
 {
     public static class NumericExtension
     {
